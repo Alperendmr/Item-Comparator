@@ -1,0 +1,12 @@
+N)   Brand  |-|      Model      |-| Cpu(Ghz) |-| Ram |-| Memory |-| Camera |-|  Price (~) |-|
+
+1)  Iphone         11 Max Pro       2.65 Ghz     4GB     128 GB      12 MP      13.410 TL
+2)  Iphone             SE           1.84 Ghz     2GB      64GB       12 MP      5.400 TL
+3)  Huawei            P40           2.86 Ghz     8GB     128 GB      50 MP      6.439 TL
+4)  Samsung     Galaxy S20 Ultra    2.9 Ghz     12GB     256 GB      108MP      10.000 TL
+5)  Iphone         12 Max Pro       2.8 Ghz      6GB     512 GB      12 MP      17.999 TL
+6)  Huawei        Mate 40 Pro       3.13 Ghz     8GB     256 GB      50 MP      13.800 TL
+7)  Samsung     Galaxy Note 10      2.73 Ghz     8GB     256 GB      12 MP      5.699 TL
+8)  Iphone            11            2.65 Ghz     4GB     128 GB      12 MP      8.190 TL
+9)  OnePlus          8 Pro          2.84 Ghz    12GB     256 GB      48 MP      10.475 TL
+10) Huawei          Mate Xs         2.86 Ghz     8GB     512 GB      40 MP      26.249 TL

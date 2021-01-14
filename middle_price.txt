@@ -1,0 +1,12 @@
+N)   Brand  |-|      Model      |-| Cpu(Ghz) |-| Ram |-| Memory |-| Camera |-|  Price (~) |-|
+
+1)  Xiaomi      Redmi Note 9 Pro    2.3 Ghz      6GB     128 GB      64 MP      3.199 TL
+2)  Samsung        Galaxy A71       2.2 Ghz      8GB     128 GB      64 MP      3.850 TL
+3)  Huawei          P40 Lite        2.27 Ghz     6GB     128 GB      48 MP      2.900 TL
+4)  Huawei         P Smart S        2.2 Ghz      4GB     128 GB      48 MP      2.300 TL
+5)  Huawei         P40 Lite E       2.2 Ghz      4GB      64GB       48 MP      2.399 TL
+6)  Realme            6i            2 Ghz        4GB     128 GB      48 MP      2.399 TL
+7)  Iphone        SE 2.0 2020       2.65 Ghz     3GB      64GB       12 MP      4.700 TL
+8)  Honor           9 Lite          2.36 Ghz     3GB      32GB       13 MP      2.300 TL
+9)  Xiaomi          Mi 9 SE         2.3 Ghz      6GB      64GB       48 MP      4.000 TL
+10) Samsung        Galaxy S9        2.7 Ghz      4GB      64GB       12 MP      4.300 TL
